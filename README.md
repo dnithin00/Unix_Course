@@ -1,2 +1,1 @@
 ## guessinggame
-'echo "$(date)"'
