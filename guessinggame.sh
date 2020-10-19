@@ -1,5 +1,5 @@
 function guess(){
-    true_ans=20
+    true_ans=21
     while true;
     do
         echo "pleas enter your guess"
@@ -17,4 +17,5 @@ function guess(){
     done
 }
 echo "guess the files number in the current directory!"
+
 guess
