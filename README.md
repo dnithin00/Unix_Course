@@ -1,2 +1,2 @@
 ## guessinggame
-echo $$(date)
+echo "$(date)"
