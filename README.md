@@ -1,1 +1,2 @@
 ## guessinggame
+' echo "$(date)" '\
